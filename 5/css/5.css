@@ -1,0 +1,19 @@
+.type-5 .a {
+  text-align: center;
+}
+.type-5 .ramid {
+  padding-right: 100px;
+  color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.type-5 .btn-www {
+justify-content: center;
+  width: 144px;
+  height: 36px;
+  margin-bottom: 30px;
+  color: black;
+  background: red;
+  border-radius: 5px;
+  padding-left: 50px;
+}

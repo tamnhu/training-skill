@@ -1,0 +1,26 @@
+.type-4 .container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.type-4 .bgr-dt1 {
+  background-image: url('../images/dt1.jpg');
+}
+.type-4 .bgr-dh2 {
+  background-image: url('../images/dh2.jpg');
+}
+.type-4 .ramid {
+  padding-right: 100px;
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.type-4 .btn-www {
+  width: 144px;
+  height: 36px;
+  margin-bottom: 30px;
+  color: black;
+  background: red;
+  border: none;
+}
